@@ -1,4 +1,2 @@
-#Demo Links
-
-##Sample Project
-[Google](https://example.com/broken-page)
+#Sample Project 
+[Open the demo](https://example.com)
