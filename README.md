@@ -10,3 +10,5 @@ This repository demonstrate **GitHub-flavoured Markdown**.
 print("hello, GitHub!")
 '''
 
+##related issuea
+Tracking the sample README link correction: #7
